@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T19:18:49.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="na1-3BKkMshPikW_as9q" version="14.5.3" type="github"><diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">7Ztbc9soFMc/jR83o7vlx8R12ofuTGYy0+0+dbCEJVokNAjH9n76BQvdIHKVrLWSW/khA4fDRfDjf0CxF/Y6OX6kIIv/JCHEC8sIjwv7w8KyfMPlf4XhVBjs1aowRBSFhcmsDc/oHyiNhrTuUQjzliMjBDOUtY0BSVMYsJYNUEoObbcdwe1eMxBBzfAcAKxb/0Ihi6XVNIy64BNEUSy79l1ZsAXBj4iSfSr7W1j27vwpihNQtiX98xiE5NAw2ZuFvaaEsCKVHNcQi6ktp62o99hRWo2bwpT1qhBsPccG/mq7DH1/Ff5hWnJg7FROBgz53MgsoSwmEUkB3tTWh/MDQ9GkwXMxSzBPmjwJj4h9baT/Fi53rsw9QYoSyCCVFfmY6elrM9PwF1m1AgZbiB+qKV8TTERRSlIxqpwByu4FDYrtEWEsWzjnJX9FN6FSg1sa/jzX8P4OGTvJPNgzwk31BH0mJJOPnjNKfsByeJwJ4/ypSkrGhO+OpOwRJAiLrfMF0hCkQJplT3yJivxrDeoASCZysqcB7Fp1uccAjSDr8JFgCBoaDUusPkLCF4aeuAOFGDD00t5JQG7IqPKroeQJyWVfRos2XwDey14cTrkHEj7fD+k2z87z4GH+JA9bnohEYrHeLO5XpZn3WZeowL9AyhAXg88CryeSI4ZIyou2hDGSiFUrd62Y8RDkccU+wCgSrgGffoFpczOUzd5LHyb4eIUA3nomRpIcIyGudxBziaOi5h2FOcoZoXmV+ma19p+oH5AEBb12SC/WuoASjwOPF1GQpbYlW5HRwCzV79DQ1lJa44asln7XpccdT+FuS7DeLEvv0p6r64qs+kQQH0YFoWcqEC4VuArxk7VqvvjsglPDLRMOeXc/rq/0YysR+Gf+S0PBuxhBDXs1J+/j39LU05rVc8Lq6XiTUk97Ph/etNzaPY56zmSOerYmVstZrCYsVupRr7rRjyNWznzUm5L2XF1XpnXU0162jH3Uc+aj3k2pp3rUG1k9DW3B56PeLcmt2+OoZ07mqGeaM26/PG72ZHBztdjozrFxsNh44R8T/cOjqb4J8cYMj6sh5MqY5er/kiuvh1y5g1xY3nrPMJVLtW1cvmeo/oPfM7z5nnFT9wxVSK3VmELqT+DcZ85C+m4hXfYQUm8y5z7TGy9uz/R00vOrvBP07LfFatV/8Fi91GO1UHXjy6BRd8eRfO3rSteNxgnKA/74IIVkn98lJCUi+20LGB/Fafg7zg6j7JNs/Aph2nGUML3sGaa9QV4H6uTc61KK+RTkYsoOMWLwOQPnjX/gK9Ve7fZKtEjqvyzt79W1jCUx1gX4eq6qBjNWNkRV0LVjCpRVwKt9dAVUqiWvrsa+hoqjg+IMwYmvcbKeOZkIJ45jtjmxxuNkpXHy4UY4mQgPXbwOwIlljsZJNfiaE/0NwTQ5+W960vUV71vQGc+cTDwqX4Y1+Nn8FvyUnNBifjVMMNyxC5AkKAzPl1+Vk6rgCpxUX2Ysdaa8Dl2bE56tf1VT3KPqXy7Zm38B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-28T19:54:54.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="F5QVTVM7ybjlcsV1R_5m" version="14.5.3" type="github">
+  <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
+    <mxGraphModel dx="870" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-1" value="&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;Joystick Shield pins&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;A = Digital D2&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;B = Digital D3&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;C = Digital D4&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Button D = Digital D5&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;E = Digital D6&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;F = Digital D7&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Joystick button (push joystick from above) = Digital D8&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Joystick x-Axis = Analog A0&lt;/span&gt;&lt;br style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255) ; box-sizing: border-box&quot;&gt;&lt;span style=&quot;color: rgb(43 , 50 , 63) ; font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Joystick y-Axis = Analog A1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="310" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-2" value="Joystick Shield on Arduino Uno" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-3" value="FL Motor" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-4" value="BL Motor" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-5" value="FR Motor" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="390" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-6" value="BR Motor" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-7" target="tB6m3Wn6waJ_9hKSVQ1o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-7" target="tB6m3Wn6waJ_9hKSVQ1o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-7" target="tB6m3Wn6waJ_9hKSVQ1o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-7" value="L298N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-8" target="tB6m3Wn6waJ_9hKSVQ1o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-8" target="tB6m3Wn6waJ_9hKSVQ1o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-8" value="L298N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-8" target="tB6m3Wn6waJ_9hKSVQ1o-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="590" as="sourcePoint" />
+            <mxPoint x="420" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-23" value="Out 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="670" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-24" value="Out 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-28" value="Out 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-29" value="Out 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="605" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-33" target="tB6m3Wn6waJ_9hKSVQ1o-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tB6m3Wn6waJ_9hKSVQ1o-33" target="tB6m3Wn6waJ_9hKSVQ1o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-33" value="12V" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-38" value="5V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-40" value="ENA: (PWM)&lt;br&gt;ENB: (PWM)&lt;br&gt;(FL Motor) IN1:D&amp;nbsp;&lt;br&gt;(FL Motor) IN2:D&lt;br&gt;(BL Motor) IN3:D&lt;br&gt;(BL Motor) IN4:D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tB6m3Wn6waJ_9hKSVQ1o-42" value="ENA: (PWM)&lt;br&gt;ENB: (PWM)&lt;br&gt;(FR Motor) IN1:D&amp;nbsp;&lt;br&gt;(FR Motor) IN2:D&lt;br&gt;(BR Motor) IN3:D&lt;br&gt;(BR Motor) IN4:D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="160" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
